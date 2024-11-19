@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="20da8bc2-182f-48ce-85af-3a81eae7b2b9" name="chaosuan">
+        <fileTransfer rootFolder="/home/ht2" accessType="SFTP" host="node1.xayytech.com" port="60023" sshConfigId="da726b07-d049-4f3a-9075-b1bd940cc213" sshConfig="ht2@node1.xayytech.com:60023 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

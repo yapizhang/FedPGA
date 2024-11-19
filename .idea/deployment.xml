@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ht2@node1.xayytech.com:60023 password">
+    <serverData>
+      <paths name="chaosuan">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ht1@node1.xayytech.com:60022">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ht2@node1.xayytech.com:60022 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/Federal_learning" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ht2@node1.xayytech.com:60023 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/Federal_learning" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
